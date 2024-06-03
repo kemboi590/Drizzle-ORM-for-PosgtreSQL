@@ -1,0 +1,13 @@
+pnpm init
+pnpm add drizzle-orm pg
+pnpm add -D drizzle-kit @types/pg
+pnpm add -D tsx typescript
+
+pnpm add dotenv
+pnpm add -D @types/node
+pnpm tsc --init
+
+ // "start": "npm run build && node ./dist/index.js"
+ pnpm run build
+
+  pnpn add -D @faker-js/faker
