@@ -15,6 +15,20 @@
       "when": 1717405106825,
       "tag": "0001_ambiguous_wolfsbane",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1717487414742,
+      "tag": "0002_steep_ogun",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1717490657045,
+      "tag": "0003_aromatic_the_stranger",
+      "breakpoints": true
     }
   ]
 }

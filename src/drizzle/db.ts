@@ -2,7 +2,7 @@ import "dotenv/config";
 
 import { drizzle } from "drizzle-orm/node-postgres"; // drizzle is used to create a drizzle instance
 import { Client } from "pg"; //client is used to connect to the database
-import * as schema from "./schema";  //import the schema file
+import * as schema from "./schema"; //import the schema file
 
 export const client = new Client({
   connectionString: process.env.DATABASE_URL as string,
